@@ -44,27 +44,7 @@
                                                                                                                               
                                                                                                                               
                                                                                                                               
-DESIGN STEPS:                                                                                                                            
-                                                                                                                              
-                                                                                                                              
-STEP 1:Identifying the input:
-Temperature from patients, Location.
 
-
-STEP 2:Identifying the output:
-Prescribe medicine if the patient in a random has a fever.
-
-
-STEP 3:Developing the PEAS description:
-PEAS description is developed by the performance, environment, actuators, and sensors in an agent.
-
-
-STEP 4:Implementing the AI agent:
-Treat unhealthy patients in each room. And check for the unhealthy patients in random room
-
-
-STEP 5:
-Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented
 
 
 
